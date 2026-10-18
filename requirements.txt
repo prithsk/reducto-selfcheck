@@ -1,0 +1,4 @@
+requests
+huggingface_hub
+numpy
+Levenshtein
